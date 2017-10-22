@@ -1,6 +1,6 @@
 <meta charset="UTF-8" />
 <?php
-$name = 'Валрий';
+$name = 'Валерий';
 $age = 19;
 $email = 'mrnobody1042@ya.ru';
 $city = 'Москва';
